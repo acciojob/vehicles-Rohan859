@@ -52,7 +52,7 @@ public class F1 extends Car {
         {
             this.setGears(5);
         }
-        else
+        else if(newSpeed>250)
         {
             this.setGears(6);
         }
