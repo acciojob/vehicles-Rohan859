@@ -59,6 +59,6 @@ public class F1 extends Car {
             this.setGears(6);
         }
 
-        this.move(newSpeed,this.getCurrentDirection());
+        //this.move(newSpeed,this.getCurrentDirection());
     }
 }
