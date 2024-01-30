@@ -13,10 +13,7 @@ public class Vehicle {
         this.currentSpeed=0;
     }
 
-    public Vehicle()
-    {
 
-    }
 
     public void steer(int direction)
     {
